@@ -3,7 +3,7 @@ import webbrowser
 from telebot import types
 bot = telebot.TeleBot("5930755466:AAGscYvfU00PUF0lDhExIb2H-xxeGEoi-bQ")
 
-#@bot.message_handler(commands=["start"])
+##@bot.message_handler(commands=["start"])
 #def start(message):
  #   markup = types.ReplyKeyboardMarkup()
   #  btn1 = types.KeyboardButton("Перейти на сайт")
